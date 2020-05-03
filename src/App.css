@@ -1,8 +1,14 @@
 .App {
   text-align: center;
+  background-color: #b3d5e861;
+}
+h1{
+  margin-top: 5vw;
+  padding-top: 5vw;
 }
 
-.App-logo {
+
+/*.App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -36,3 +42,4 @@
     transform: rotate(360deg);
   }
 }
+*/
